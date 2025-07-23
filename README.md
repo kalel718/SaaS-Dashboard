@@ -47,5 +47,4 @@ https://neuralai-ai-dashboard-mk-projects-6.netlify.app/
 
 
 
-
-https://github.com/user-attachments/assets/b32f5a60-ac20-4064-9255-e1f14bf8dd6e
+![Image](https://github.com/user-attachments/assets/59a7f38b-85bf-447f-a03d-60b03b730443)
